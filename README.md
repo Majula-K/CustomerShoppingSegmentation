@@ -2,7 +2,7 @@
 
 
 **Objective:**
-Developed a market segmentation strategy to aid in targeted marketing efforts by categorising customers based on income, age, and mall shopping behavior.
+Developed a market segmentation strategy to aid in targeted marketing efforts by categorising customers based on income, age, and mall shopping behaviour.
 
 **Approach:**
 Conducted exploratory data analysis, applied KMeans clustering to segment customers into distinct groups, and visualized the results.
